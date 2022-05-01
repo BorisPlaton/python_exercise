@@ -1,2 +1,2 @@
 # Задачи на Python
-Задачи берутся с сайта [LeetCode](https://leetcode.com/).
+Задания берутся с сайта [LeetCode](https://leetcode.com/).
