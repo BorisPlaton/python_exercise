@@ -10,3 +10,5 @@ class Solution:
                 return d[num] + [index]
 
             d[target - num] = [index]
+
+map()
